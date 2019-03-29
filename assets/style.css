@@ -24,11 +24,10 @@ body {
 	margin-top: 25px;
 }
 
-.mv-subtitle-area {
-	margin-top: 15px;
-}
-
 .mv-subtitle-border {
 	color: white;
 }
 
+.mv-subtitle-area {
+	margin-top: 15px;
+}
