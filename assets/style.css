@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+}
+
+.mv {
+	background-image: url("image/people.png");
+	height: 100vh;
+	background-position: cover;
+}
+
+.mv-logo-area {
+	position: absolute;
+	top: 25%;
+	right: 4%;
+	width: 45%;
+}
+
+.mv-subtitle-area {
+	margin-top: 15px;
+}
+
+.mv-subtitle-border {
+	color: white;
+}
+
+.mv-logo-text {
+	color: white;
+	font-family: serif;
+	font-size: 20px;
+	line-height: 1.5;
+	text-align: right;
+	margin-top: 25px;
+}
