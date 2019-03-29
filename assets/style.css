@@ -15,14 +15,6 @@ body {
 	width: 45%;
 }
 
-.mv-subtitle-area {
-	margin-top: 15px;
-}
-
-.mv-subtitle-border {
-	color: white;
-}
-
 .mv-logo-text {
 	color: white;
 	font-family: serif;
@@ -31,3 +23,12 @@ body {
 	text-align: right;
 	margin-top: 25px;
 }
+
+.mv-subtitle-area {
+	margin-top: 15px;
+}
+
+.mv-subtitle-border {
+	color: white;
+}
+
